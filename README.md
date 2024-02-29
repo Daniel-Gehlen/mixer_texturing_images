@@ -37,7 +37,7 @@ Ensure to replace `https://opensource.org/licenses/MIT` with the correct license
 Additionally, you may want to add other helpful sections like an installation requirements section, examples section, contribution guidelines, etc., as needed for your project.
 
 
-**Report on the Mixer Texturing Images Package**
+# **Report on the Mixer Texturing Images Package**
 
 **1. Introduction:**
 The Mixer Texturing Images package is a Python library developed for blending textures onto images and applying transformations such as perspective. The aim of the package is to provide a simple and effective tool for image processing, particularly useful in areas such as computer vision, image processing, and computer graphics.
