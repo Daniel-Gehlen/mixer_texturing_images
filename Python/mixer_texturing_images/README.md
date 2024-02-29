@@ -1,7 +1,6 @@
 # Mixer Texturing Images
 
-[![License](https://img.shields.io/github/license/Daniel-Gehlen/mixer_texturing_images.svg)](https://github.com/Daniel-Gehlen/mixer_texturing_images/blob/main/LICENSE)
-
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 This is a Python package for blending textures onto images and applying transformations such as perspective.
 
@@ -33,6 +32,6 @@ Contributions are welcome! For more information, please read our Contribution Gu
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 
-Ensure to replace `[![License](https://img.shields.io/github/license/Daniel-Gehlen/mixer_texturing_images.svg)](https://github.com/Daniel-Gehlen/mixer_texturing_images/blob/main/LICENSE)` with the correct license badge and include the `LICENSE` file at the root of your project.
+Ensure to replace `[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)` with the correct license badge and include the `LICENSE` file at the root of your project.
 
 Additionally, you may want to add other helpful sections like an installation requirements section, examples section, contribution guidelines, etc., as needed for your project.
