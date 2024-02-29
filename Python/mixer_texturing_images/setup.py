@@ -13,7 +13,7 @@ setup(
     long_description_content_type="text/markdown",
     url="https://github.com/your-username/your-project",
     project_urls={
-        "Bug Tracker": "https://github.com/your-username/your-project/issues",
+        "Bug Tracker": "https://github.com/Daniel-Gehlen/mixer_texturing_images",
     },
     classifiers=[
         "Programming Language :: Python :: 3",
