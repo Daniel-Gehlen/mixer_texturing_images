@@ -1,7 +1,5 @@
 # Mixer Texturing Images
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
 This is a Python package for blending textures onto images and applying transformations such as perspective.
 
 ## Installation
