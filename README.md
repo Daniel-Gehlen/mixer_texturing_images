@@ -30,6 +30,6 @@ Contributions are welcome! For more information, please read our Contribution Gu
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 
-Ensure to replace `[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)` with the correct license badge and include the `LICENSE` file at the root of your project.
+Ensure to replace `https://opensource.org/licenses/MIT` with the correct license badge and include the `LICENSE` file at the root of your project.
 
 Additionally, you may want to add other helpful sections like an installation requirements section, examples section, contribution guidelines, etc., as needed for your project.
